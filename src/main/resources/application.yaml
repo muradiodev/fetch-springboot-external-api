@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+
+
+
+team:
+  api:
+    url: https://api-origin.onefootball.com
+  list:
+    - Germany
+    - England
+    - France
+    - Spain
+    - Manchester United
+    - Arsenal
+    - Chelsea
+    - Barcelona
+    - Real Madrid
+    - Bayern Munich
+
