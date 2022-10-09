@@ -19,7 +19,7 @@ public class ApiController {
 
     @GetMapping("/player")
     public ResponseData<List<ResultData>> getPlayers() {
-        log.info("getPlayers() is running");
+//        log.info("getPlayers() is running");
         return teamServices.getPlayers();
     }
 }
