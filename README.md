@@ -1,7 +1,3 @@
-# backend-assignment-muradiodev
-backend-assignment-muradiodev created by GitHub Classroom
-
-
 # The Task
 
 Given API endpoint:
